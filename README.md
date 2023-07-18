@@ -7,7 +7,6 @@ It generates random quotes for users and displays them on the screen.
 This project utilizes React components, state management, and API integration to fetch and display quotes.
 
 ![Random Quote Machine Screenshot](./project-6.jpg)
-
 [Live Site](https://aneal07.github.io/RAndom-Quote-Machine/)
 
 Features
